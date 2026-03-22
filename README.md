@@ -1,2 +1,28 @@
 # simplepyide
 A simple light-weight python IDE for beginners, with education features, and a user-friendly interface.
+# Features 
+1 - Black formatter. 
+2 - Program tree generator. 
+3 - TODO list. 
+4 - Linter. 
+5 - Error assistant. 
+6 - PIP module. 
+7 - flowchart generator. 
+8 - Realtime learning [Learn what the python functions do while writing them]. 
+9 - File summary generator. 
+10 - Active action logger + log files. 
+11 - Fullscreen. 
+12 - Navigation tools. 
+13 - Edit tools. 
+14 - Apply tools. 
+15 - Multiple files per session. 
+16 - Automatic:
+   1 - parantheses closing.
+   2 - quotes closing. 
+   3 - brackets closing. 
+   ...etc 
+17 - Automatic indentation and dendentation. 
+16 - changeble font size. 
+--------------------------------------------
+# Note:
+the project is still in the first stages, so it has some bugs here and there. 

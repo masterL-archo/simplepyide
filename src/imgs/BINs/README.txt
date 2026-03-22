@@ -1,0 +1,1 @@
+This project utilizes icons sourced exclusively from Icons8 (https://icons8.com), with the exception of the application icon.

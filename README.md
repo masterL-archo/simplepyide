@@ -1,5 +1,5 @@
 # simplepyide
-A simple light-weight python IDE for beginners, with education features, and a user-friendly interface.
+A simple light-weight python IDE for beginners, with educational features, and a user-friendly interface.
 ----------------------
 1 - Black formatter.  
 2 - Program tree generator.   
@@ -22,4 +22,4 @@ A simple light-weight python IDE for beginners, with education features, and a u
 
 Note: the project is still in the first stages, so it has some bugs here and there. 
 --------------------------
-All icons used in this project are exclusively sourced from https://icons8.com, with the exception of the application icon. 
+<<All icons used in this project are exclusively sourced from https://icons8.com, with the exception of the application icon>> 

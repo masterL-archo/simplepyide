@@ -3,7 +3,7 @@
 suitable for light-weight projects and for beginners to learn python easily, with a user-friendly interface and no complicated menus.   
 the source code is simple and clear catigorized into multiple folders and multiple files, comments are everywhere so you know what each part of the code does,   
 the heirarchy is simple and clear, this project uses the native graphics library(ttk) for the *G*raphical *U*ser *I*ntergace, and for the other power features like formatting and linting and program structure   
-are powered by black, pyflakes and ast.   
+are powered by black, pyflakes and ast.
 # Features 🧰🔥
 * Black formatter.  
 * Program tree generator.   

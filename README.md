@@ -24,3 +24,5 @@ Note: the project is still in the first stages, so it has some bugs here and the
 --------------------------
 <All icons used in this project are exclusively sourced from https://icons8.com, with the exception of the application icon>    
 run this command on the terminal running on the projects folder ```pip install -r requirements.txt```.
+- read the instructions in instructions.md to setup up the IDE.
+--------------------------
